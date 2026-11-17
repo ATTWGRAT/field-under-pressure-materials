@@ -4,6 +4,9 @@
 # Parquet sample data (README: pandas.read_parquet)
 pandas>=2.0
 pyarrow>=14.0
+# Uncomment if you use H3 indexes (level 11 in some datasets):
+# h3>=3.7
+# h3pandas>=0.2
 
 # Sentinel-2 Earth Search starter notebook
 pystac-client>=0.8

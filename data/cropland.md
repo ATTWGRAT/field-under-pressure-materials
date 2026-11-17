@@ -1,14 +1,22 @@
 ### Cropland
 
-**Download:** see [How to get the data](#how-to-get-the-data)
+**Source:**
+ <!-- TODO: provider / product name -->
 
-| Field | Value |
-|---|---|
-| Source | <!-- TODO: provider / product name --> |
-| Description | <!-- TODO: what the layer represents --> |
-| Spatial extent | <!-- TODO --> |
-| Temporal coverage | <!-- TODO --> |
-| Resolution / CRS | <!-- TODO --> |
-| File format | <!-- TODO --> |
-| Schema / attributes | <!-- TODO: column or band list --> |
----
+**Description:**
+ <!-- TODO: what the layer represents -->
+
+**Spatial extent**
+ <!-- TODO -->
+
+**Temporal coverage**
+ <!-- TODO -->
+
+**Resolution / CRS**
+ <!-- TODO -->
+
+**File format**
+<!-- TODO -->
+
+**Schema / attributes**
+<!-- TODO: column or band list -->

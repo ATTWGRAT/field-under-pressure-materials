@@ -24,7 +24,7 @@ This repo is both the **materials hub** and a **starting point for your team’s
 
 1. **Clone the repo** (one shared repo per team).
    ```bash
-   git clone <this-repo-url>
+   git clone https://github.com/Bayer-Group/field-under-pressure-materials.git
    cd field-under-pressure-materials
    ```
 2. **Create a Python environment** (3.10+) and install starters:

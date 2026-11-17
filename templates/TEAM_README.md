@@ -30,3 +30,13 @@ source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 # put downloaded data somewhere local, then set path below or in a .env
 jupyter notebook notebooks/
+```
+
+## Demo notes (Sunday)
+- What to show (1–2 screens / maps):
+- Key result / insight:
+- Known limits / next steps:
+
+## Links
+- Repo:
+- Slides / recording (if any):
