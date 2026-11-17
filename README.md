@@ -2,13 +2,13 @@
 
 Near-real-time crop risk map · [Field Under Pressure](https://geo-hackathon.g.location360.ag/)
 
-**When / where:** 20–22 Nov 2026 · Warsaw, UW Geology, detailed schedule on the website.
+**When / where:** 20-22 Nov 2026 · University of Warsaw, Faculty of Geology, detailed schedule on the website.
 
 **What you will build:**
-- weather risk
-- disease / pest
-- yield & soil
-- platform / dashboard
+- weather-driven risk detection
+- crop disease & pest detection
+- yield & soil analytics
+- output as a platform / dashboard
 
 **Data and source documentation for the hackathon**
 
