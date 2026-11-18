@@ -15,7 +15,7 @@ Hackathon packages are **Poland-only**, reprojected to **EPSG:4326**, one ZIP pe
 
 **Related CLMS layers (optional)**
 
-The shared packages are the main **crop type** map. For your prototype you may also pull other HRL Croplands layers yourselves if they fit the track — for example **[cropping patterns](https://land.copernicus.eu/en/products/high-resolution-layer-croplands?tab=cropping_patterns)** (and other products on the same [HRL Croplands](https://land.copernicus.eu/en/products/high-resolution-layer-croplands) page). Document source, year, and AOI in your team README.
+The shared packages are the main **crop type** map. For your prototype you may also pull other HRL Croplands layers yourselves if they fit the track — **[cropping patterns](https://land.copernicus.eu/en/products/high-resolution-layer-croplands?tab=cropping_patterns)**. Document source, year, and AOI in your team README.
 
 **Spatial extent**
 
@@ -101,9 +101,10 @@ Single-band raster — pixel value = crop class. Legend:
 
 **How to use (quick)**
 
-1. Download only the year ZIP(s) you need ([links](README.md) / Discord).
+1. Download only the year ZIP(s) you need first. Download links will be published on Friday morning (20 Nov 2026) in Discord channel.
 2. Unzip and open the tile(s) covering your AOI (do not load all 48 at once unless needed).
 3. Map pixel values with the table / legend above (or load the included `.qml` / `.clr` in QGIS).
+4. Download the other years' data if needed and load only for the chosen AOI / tile(s).
 
 ```python
 # pip install rasterio numpy
