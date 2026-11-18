@@ -8,7 +8,7 @@
 
 Predicted soil properties on a 250 m grid, indexed with **H3 level 10** for spatial join. Includes bulk density, texture (sand / silt / clay), coarse fragments, CEC, pH, nitrogen, organic carbon (content, density, stocks), plus root-zone aggregates and USDA texture class.
 
-Hackathon packages are split by **voivodeship**. Download links: `Discord channel`
+Hackathon packages are split by **voivodeship**. Download links will be published on Friday morning (20 Nov 2026) in Discord channel.
 
 **Spatial extent**
 
