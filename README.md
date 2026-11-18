@@ -27,20 +27,28 @@ This repo is both the **materials hub** and a **starting point for your team’s
    git clone https://github.com/Bayer-Group/field-under-pressure-materials.git
    cd field-under-pressure-materials
    ```
-2. **Create a Python environment** (3.10+) and install starters:
+2. **Create your team’s branch** and do all work there (do not commit on `main`):
+   ```bash
+   git checkout -b team/<your-team-name>
+   ```
+3. **Create a Python environment** (3.10+) and install starters:
    ```bash
    python -m venv .venv
    source .venv/bin/activate          # Windows: .venv\Scripts\activate
    pip install -r requirements.txt
    ```
-3. **Skim the challenge** on the [event site](https://geo-hackathon.g.location360.ag/). Full brief + agenda at the opening ceremony.
-4. **Pick a track** and fill in [`templates/TEAM_README.md`](templates/TEAM_README.md) (team, one-liner, scope, data checklist).
-5. **Read the data docs** in [`data/`](data/) — choose only the AOIs / sources you need (disk space adds up).
-6. **Download data** when organizers share links (see [How to get the data](#how-to-get-the-data)). Keep large files **outside git** (ignored by `.gitignore`) or on a shared drive / cloud.
-7. **Run a starter notebook** under [`notebooks/`](notebooks/) (e.g. Sentinel-2 Earth Search) to confirm your setup.
-8. **Work in the cloud if you prefer** (Colab, Kaggle, Codespaces, or Google Earth Engine with a personal account) — same idea: don’t commit big downloads; document paths in the team README.
-9. **Commit code and docs only** — not Parquet/GeoTIFF dumps, `.env`, or credentials.
-10. **Before Sunday:** update the team README with how to run your demo and what to show.
+4. **Skim the challenge** on the [event site](https://geo-hackathon.g.location360.ag/). Full brief + agenda at the opening ceremony.
+5. **Pick a track** and fill in [`templates/TEAM_README.md`](templates/TEAM_README.md) (team, one-liner, scope, data checklist).
+6. **Read the data docs** in [`data/`](data/) — choose only the AOIs / sources you need (disk space adds up).
+7. **Download data** when organizers share links (see [How to get the data](#how-to-get-the-data)). Keep large files **outside git** (ignored by `.gitignore`) or on a shared drive / cloud.
+8. **Run a starter notebook** under [`notebooks/`](notebooks/) (e.g. Sentinel-2 Earth Search) to confirm your setup.
+9. **Work in the cloud if you prefer** (Colab, Kaggle, Codespaces, or Google Earth Engine with a personal account) — same idea: don’t commit big downloads; document paths in the team README.
+10. **Commit code and docs only** — not Parquet/GeoTIFF dumps, `.env`, or credentials.
+11. **When your work is ready, push your team branch to origin:**
+    ```bash
+    git push -u origin team/<your-team-name>
+    ```
+12. **Before Sunday:** update the team README with how to run your demo and what to show.
 
 > More challenge detail at kickoff. Questions on data links → organizers.
 
