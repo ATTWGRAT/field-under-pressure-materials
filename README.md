@@ -48,7 +48,7 @@ This repo is both the **materials hub** and a **starting point for your team’s
     ```bash
     git push -u origin team/<your-team-name>
     ```
-12. **Before Sunday:** update the team README with how to run your demo and what to show.
+12. **Before Sunday submission:** update the team README with how to run your demo and what to show.
 
 > More challenge detail at kickoff. Questions on data links → organizers.
 
@@ -79,7 +79,7 @@ If you consider cloud work with bigger datasets or with additional datasets avai
 ### Data formats
 
 You will find different data formats. You should be familiar with most of them.
-Please check however if you know how to work with .parquet files. Additionally, some datasets have H3 index assigned (level 11). If you haven't worked with H3 indexes we encourage you to learn about the solution.
+Please check however if you know how to work with .parquet files. Additionally, some datasets have H3 index assigned (level 10). If you haven't worked with H3 indexes we encourage you to learn about the solution.
 
 More details in the datasets documentation.
 
