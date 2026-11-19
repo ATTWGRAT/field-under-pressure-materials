@@ -29,7 +29,7 @@ The package includes:
 **Directory layout**
 
 ```text
-data/metodyki
+metodyki/
 ├── zboza_ryzyka.xlsx
 ├── Metodyka integrowanej ochrony slonecznika dla doradcow (2020).pdf
 ├── Metodyka integrowanej ochrony ziemniaka dla doradcow.pdf
@@ -47,6 +47,8 @@ data/metodyki
 ├── pszenzyta_ozimego_i_jarego_DLA_PRODUCENTOW.pdf
 └── zyta__DLA_PRODUCENTOW.pdf
 ```
+
+Download links for each package: [`README.md`](README.md).
 
 **Excel summary (`zboza_ryzyka.xlsx`)**
 
