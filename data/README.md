@@ -6,13 +6,15 @@
 | Weather     | Gridded historical weather (temp, humidity, wind, precip, radiation, ETo/ETr, soil moisture/temp, …) + separate NASA IMERG precip; join on `grid_id` | Parquet (ZIP per voivodeship / year; daily & hourly) | Poland, 4 km grids; 2020–2025 | [weather.md](weather.md) |
 | Satellite   | Sentinel 2 L2A, Bands (RED, GREEN, BLUE, NIR, CLOUD MASK) | Cloud Optimized GeoTIFF | South of Poland, tile: 33UXR | [CDSE Sentinel-2](https://dataspace.copernicus.eu/data-collections/copernicus-sentinel-missions/sentinel-2), [Notebook](https://github.com/Bayer-Group/field-under-pressure-materials/blob/main/notebooks/sentinel2_earth_search_hackathon.ipynb) with the download instruction |
 | Soil        | ISRIC SoilGrids / Soil 250 v2 — texture, pH, SOC, CEC, bulk density, USDA class; H3 level 10 join | Parquet (ZIP per voivodeship) | Poland (per voivodeship); static 2022 map, 250 m | [soil.md](soil.md) |
-| Crop Yield Risks and Protection | Briefings on yield risks & protection methods (context for spray / treat / harvest / wait) | PDF + Excel summary | Agronomic reference (not a spatial layer) | [yield-risks-protection.md](yield-risks-protection.md) |
+| Crop Yield Risks and Protection | Metodyki integrowanej ochrony PDFs + Excel risk summary (`zboza_ryzyka.xlsx`) — diseases, pests, favourable conditions (spray / treat / harvest / wait context) | PDF + Excel (`.xlsx`) | Agronomic reference (not a spatial layer); PL field crops | [yield-risks-protection.md](yield-risks-protection.md) |
 
 ## Download links
 
-Presigned S3 download links will be published on **Friday morning** (20 Nov 2026) in Discord channel.
+Presigned S3 download links for spatial packages (cropland, weather, soil, …) will be published on **Friday morning** (20 Nov 2026) in Discord channel.
 
 No AWS account required.
+
+**Crop yield risks and protection** (metodyki PDFs + Excel summary) will be available via a **SharePoint** link — see [yield-risks-protection.md](yield-risks-protection.md).
 
 > If a link fails before the stated expiry, contact the organizers.
 
