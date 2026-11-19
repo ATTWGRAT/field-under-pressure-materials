@@ -60,4 +60,4 @@ One sheet per crop. Typical content:
 
 - Treat PDFs as the authoritative metodyki text; use the Excel file as a quick lookup for risk windows
 - Join this knowledge to weather (e.g. temp / humidity / leaf wetness proxies) and crop type when scoring disease or pest pressure
-- Cite the metodyka title and year in your team README / demo materials
+- Cite the 'metodyka' title in your team README / demo materials
