@@ -12,7 +12,7 @@ Gridded historical weather for Poland: temperature, humidity, wind, precipitatio
 
 IMERG precipitation is a **separate table** (`imerg_precipitation_daily` / `imerg_precipitation_hourly`); join it to weather or grids on `grid_id` (+ `date` / time) when you need satellite precipitation.
 
-Hackathon packages are split by **voivodeship** and **year** (daily and hourly). Grid geometry and IMERG packages are separate. Download links: [`README.md`](README.md).
+Hackathon packages are split by **voivodeship** and **year** (daily and hourly). Grid geometry and IMERG packages are separate. Download links will be published on Friday morning (20 Nov 2026) in Discord channel.
 
 **Spatial extent**
 

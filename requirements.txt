@@ -1,12 +1,17 @@
 # Field Under Pressure — starter environment (Python 3.10+)
 # pip install -r requirements.txt
 
-# Parquet sample data (README: pandas.read_parquet)
+# Parquet / tabular data (weather, soil, …)
 pandas>=2.0
 pyarrow>=14.0
-# Uncomment if you use H3 indexes (level 11 in some datasets):
-# h3>=3.7
+duckdb>=1.0
+# H3 spatial index (soil uses level 10; some other layers may use L11)
+h3>=3.7
+# Optional helpers:
 # h3pandas>=0.2
+# polars>=1.0          # fast Parquet alternative to pandas (mentioned in weather.md)
+# openpyxl>=3.1        # if you open the yield-risks Excel summary in Python
+# jupyter>=1.0         # local notebooks (Colab/Kaggle already provide this)
 
 # Sentinel-2 Earth Search starter notebook
 pystac-client>=0.8
