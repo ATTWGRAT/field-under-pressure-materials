@@ -13,7 +13,6 @@ The package includes:
 - **PDFs** — full guidance documents (advisor and producer editions where available) for major field crops grown in Poland
 - **Excel summary** — curated risk tables by crop (pathogens, pests, favourable weather / soil conditions, and additional risk notes)
 
-Download links (SharePoint) will be published with the other hackathon datasets.
 
 **Coverage (crops)**
 
@@ -30,7 +29,7 @@ Download links (SharePoint) will be published with the other hackathon datasets.
 **Directory layout**
 
 ```text
-yield_risks_protection/
+data/metodyki
 ├── zboza_ryzyka.xlsx
 ├── Metodyka integrowanej ochrony slonecznika dla doradcow (2020).pdf
 ├── Metodyka integrowanej ochrony ziemniaka dla doradcow.pdf

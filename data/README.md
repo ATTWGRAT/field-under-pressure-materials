@@ -10,11 +10,9 @@
 
 ## Download links
 
-Presigned S3 download links for spatial packages (cropland, weather, soil, …) will be published on **Friday morning** (20 Nov 2026) in Discord channel.
+Presigned S3 download links will be published on **Friday morning** (20 Nov 2026) in Discord channel.
 
 No AWS account required.
-
-**Crop yield risks and protection** (metodyki PDFs + Excel summary) will be available via a **SharePoint** link — see [yield-risks-protection.md](yield-risks-protection.md).
 
 > If a link fails before the stated expiry, contact the organizers.
 
