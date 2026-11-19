@@ -18,7 +18,7 @@ The package includes:
 
 | Material | Crops / documents |
 |----------|-------------------|
-| PDFs (metodyki) | Wheat, triticale, rye, barley, oat, maize, sugar / fodder beet, potato, sunflower; plus a GIORiN cereals methodological guide |
+| PDFs (metodyki) | Wheat, triticale, rye, barley, oat, maize, sugar beet, potato, sunflower; plus a GIORiN cereals methodological guide |
 | Excel summary | Sugar beet, maize, wheat, sunflower, potato (one sheet per crop) |
 
 **File format**
