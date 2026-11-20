@@ -48,7 +48,7 @@ metodyki/
 └── zyta__DLA_PRODUCENTOW.pdf
 ```
 
-Download links for each package: [`README.md`](README.md).
+Metodyki can be found in the `metodyki/` folder in this repo   . The Excel summary is also included there.
 
 **Excel summary (`zboza_ryzyka.xlsx`)**
 
